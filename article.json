@@ -1,0 +1,17 @@
+{
+	"title": "Introduction and First Hello World Server (Video)",
+	"description": "How to Install Node.js and create your first Hello World Server",
+	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
+	"tags": ["install", "hello", "world"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 1,
+  "categories": [
+    ["Intro"]
+  ]
+}
